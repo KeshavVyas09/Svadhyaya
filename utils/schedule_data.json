@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2024-03-15",
+    "day": "Friday",
+    "time": "19:30 - 20:30",
+    "task": "Dinner"
+  },
+  {
+    "date": "2024-03-16",
+    "day": "Saturday",
+    "time": "22:00 - 07:00",
+    "task": "Sleeping"
+  },
+  {
+    "date": "2024-07-29",
+    "day": "Monday",
+    "schedule": [
+      {
+        "time": "07:00 - 07:30",
+        "task": "Breakfast"
+      },
+      {
+        "time": "12:30 - 13:00",
+        "task": "Lunch"
+      },
+      {
+        "time": "18:30 - 19:00",
+        "task": "Dinner"
+      },
+      {
+        "time": "06:00 - 06:30",
+        "task": "Walking"
+      },
+      {
+        "time": "22:00 - 06:00",
+        "task": "Sleeping"
+      }
+    ]
+  },
+  {
+    "date": "2024-02-29",
+    "day": "Thursday",
+    "schedule": [
+      {
+        "time": "09:00 - 10:00",
+        "task": "Morning meeting"
+      },
+      {
+        "time": "10:30 - 12:00",
+        "task": "Project work"
+      },
+      {
+        "time": "13:00 - 14:00",
+        "task": "Lunch"
+      },
+      {
+        "time": "14:30 - 16:00",
+        "task": "Client call"
+      }
+    ]
+  }
+]
