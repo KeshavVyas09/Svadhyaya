@@ -1,0 +1,10 @@
+streamlit
+numpy
+pillow
+opencv-python
+mediapipe
+google-generativeai
+langchain
+langchain-google-genai
+pandas
+scikit-learn
